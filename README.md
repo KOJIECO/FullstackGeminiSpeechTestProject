@@ -7,8 +7,8 @@
 ### 2. API КЛЮЧ
 Для работы приложения необходим ключ Gemini API.
 
-1) Вообще бесплатный ключ  нужно получить в [Google AI Studio](https://aistudio.google.com/app/apikey), я НА ВРЕМЯ тестового задания, предоставлю его вам (ВСКОРЕ ОН БУДЕТ ОТОЗВАН): AIzaSyBFCEy8KBskMACj1_V-sr7bZ3gRVg7IphE
-(Если вы ничего здесь не наблюдаете, значит ключ уже был отозван)
+1) Бесплатный ключ нужно получить в [Google AI Studio](https://aistudio.google.com/app/apikey)
+
 2) Перейдите в папку `server`.
 3) Скопируйте `.env.example` в новый файл `.env`:
    ```bash
